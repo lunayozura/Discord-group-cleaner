@@ -10,7 +10,7 @@ This script is designed to delete all messages in a specific Discord group. It w
 ## Requirements
 - Python 3.x
 - `discord.py-self` library (can be installed with `pip install discord.py-self`)
-- (You can use my fork, `pip install git+https://github.com/yozuraz/discord.py-self.git`)
+- (You can use my fork, `pip install git+https://github.com/lunayozura/discord.py-self.git`)
 - MAKE SURE TO DELETE ALL PIP RELATED TO BOTS, SUCH AS discord.py nextcord ect....
 ## Installation
 
